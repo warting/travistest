@@ -11,5 +11,7 @@ android:
     # Additional components
     # - extra-android-m2repository
 
-licenses:
-    - '.+'
+  licenses:
+    - 'android-sdk-preview-license-.+'
+    - 'android-sdk-license-.+'
+    - 'google-gdk-license-.+'
