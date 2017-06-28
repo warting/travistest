@@ -9,4 +9,8 @@ android:
     - android-26
     
     # Additional components
-    - extra
+    # - extra-android-m2repository
+
+licenses:
+    - 'android-sdk-preview-license-.+'
+    - 'android-sdk-license-.+'
